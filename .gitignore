@@ -27,8 +27,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-# .env*.local
 .env
+.env*.local
+
 # vercel
 .vercel
 
@@ -36,7 +37,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-#tailwind
+# config files
 postcss.config.mjs
 tailwind.config.js
-```
