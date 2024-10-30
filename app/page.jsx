@@ -23,9 +23,9 @@ const Home = () => {
             <h1 className="h1 mb-6">
               Hi I am <br/> <span className="text-accent">Chandresh </span>
             </h1>
+            <h2 className="mb-0">From <strong>front-end</strong> finesse to <strong>back-end</strong> logic</h2>
             <p className="max-m-[500px] mb-9 text-white/80">
-              I excel at crafting elegant digital experience 
-              and I am proficient in various programming languages and technologies.
+            Transforming Ideas into Engaging Digital Journeys
             </p>
             {/* btn and social */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
